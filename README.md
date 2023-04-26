@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NathDCoder
 - 👀 I’m a Movie Score Buff, Art lover, & Technology enthusiast
-- 🌱 I am a recent graduate as a Fullstack Web Developer and looking to learn as much
-      programming languages as possible.
+- 🌱 I am a recent graduate as a Fullstack Web Developer and always looking for more to languages to learn
 - 📫 How to reach me is @ shutter.nbt@gmail.com
 
 <!---
